@@ -1,0 +1,16 @@
+.launch-container {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 20px;
+  width: calc(100% - 80px);
+}
+
+.header-details {
+  display: flex;
+  flex-direction: row;
+}
+
+.launch-link{
+    text-decoration: none;
+    color: #1850FF;
+}
